@@ -1,0 +1,8 @@
+node_modules
+migrations
+__pycache__
+qa_production_environment
+*xlsx
+LeerTutorial.txt
+*db
+*exe

@@ -1,0 +1,5 @@
+Setear variables de ambiente en windows. Para mostrar echo %VARIABLE_NAME%
+
+set FLASK_ENV=development
+set DATABASE_URL=sqlite:////Users/%REST_OF_PATH%/question_api.db
+set JWT_SECRET_KEY=hhgaghhgsdhdhdd
